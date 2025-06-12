@@ -41,7 +41,8 @@ Objective:
   •	Conditional formatting for KPI highlights
   
 
-Key Outcome
+Key Outcome:
+
 Provides a user‑friendly interface that enables stakeholders to quickly identify top‑performing countries and products, track monthly trends, and uncover actionable insights, all within a single Excel dashboard.
 
 ![image](https://github.com/user-attachments/assets/7efda452-37fd-4146-8806-ae531d2f0bd4)
