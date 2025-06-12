@@ -1,7 +1,9 @@
-Project Title
+Project Title:
+
  Interactive Coffee Sales Dashboard 
 
 Objective:
+
  Analyze coffee sales performance across countries and product attributes to enable data‑driven decision making.
 
 1. Data Preparation
